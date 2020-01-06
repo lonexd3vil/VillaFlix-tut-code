@@ -1,0 +1,87 @@
+@media only screen and (max-width: 360px) {
+	.head_para_one {
+		font-size: 16px;
+		padding-left: 5px;
+		padding-right: 5px;
+		margin-bottom: 3%;
+		margin-top: 5%;
+	}
+	.head_para_context {
+		text-align: center;
+		font-size: 14px;
+		margin-bottom: 3%;
+	}
+	.page_heading_two_head {
+		font-size: 15px;
+		margin-left: 5%;
+		margin-bottom: 2%;
+	}
+	.page_heading_two_context {
+		font-size: 16px;
+		text-align: center;
+		margin-left: 5%;
+		padding-left: 5px;
+		padding-right: 5px;
+		margin-bottom: 5%;
+	}
+	.tut-head-start {
+		font-size: 16px;
+		margin-bottom: 2%;
+	}
+	.steps-start {
+		margin-left: 8%;
+		font-size: 14px;
+	}
+	.steps-start img {
+		width: 100%;
+		height: auto;
+		margin-left: 0%;
+	}
+}
+@media only screen and (max-width: 480px) {
+	.head_para_one {
+		font-size: 16px;
+		padding-left: 5px;
+		padding-right: 5px;
+		margin-bottom: 3%;
+		margin-top: 2%;
+	}
+	.head_para_context {
+		font-size: 15px;
+		padding-left: 8px;
+		padding-right: 8px;
+		margin-bottom: 3%;
+	}
+	.page_heading_two_head {
+		font-size: 15px;
+	}
+	.page_heading_two_context {
+		font-size: 15px;
+		margin-top: 3%;
+		padding-right: 10px;
+		margin-bottom: 4%;
+	}
+	.tut-head-start {
+		font-size: 15px;
+	}
+	.steps-start {
+		font-size: 15px;
+	}
+	.steps-start img {
+		width: 100%;
+		height: auto;
+		margin-left: 0%;
+	}
+	.step-one {
+		margin-bottom: 2%;
+	}
+	.step-two {
+		margin-bottom: 2%;
+	}
+	.steps-three {
+		margin-bottom: 2%;
+	}
+	.step-five {
+		margin-bottom: 2%;
+	}
+}
